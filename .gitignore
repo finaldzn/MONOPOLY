@@ -1,3 +1,6 @@
 MONOPOLY/bin
 MONOPOLY/obj/
 .vs/
+.vscode/
+MONOPOLY/publish/
+MONOPOLY/MONOPOLY_TemporaryKey.pfx
