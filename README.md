@@ -9,7 +9,7 @@ The project
 ---
 >Objective of the project is to simulate a simplified version of the Monopoly™ game
 
-![Monopoly](files\regle-monopoly.jpg)
+![Monopoly](./files/regle-monopoly.jpg)
 
 The rules our game has to follow is that the player can go to jail if he lands on the jail case (case 30) or does three double in a row. A game is won when a player reaches 3 fullturn of the board. 
 
